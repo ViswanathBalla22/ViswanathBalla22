@@ -8,6 +8,8 @@ I'm based in Vijayawada. Building different projects and web applications within
 
 I am recently working on machine learning and react js projects and contributing to open source 
 ## 🌐 Connect with me:
+- [LinkedIn](https://in.linkedin.com/in/viswanath-balla-b7b236226)
+-  [Twitter](https://twitter.com/BViswanath22)
 - 🐦 [LeetCode](https://leetcode.com/viswanathballa2004/)
 ## 🚀 What I Do:
 - 👁 Artificial Intelligence: Elevating Intelligence, Empowering Tomorrow: AI Solutions for a Smarter World.
