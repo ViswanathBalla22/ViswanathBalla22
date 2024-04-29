@@ -3,10 +3,11 @@ Hey there! I'm Viswanath, a tech enthusiast based in Vijayawada. I'm passionate 
 :new: What's New
 Currently, I'm diving deep into machine learning and React.js projects while also contributing to open source.
 
-🌐 Connect with me
-LinkedIn
-Twitter
-LeetCode
+### 🌐 Connect with me
+- [LinkedIn](https://in.linkedin.com/in/viswanath-balla-b7b236226)
+- [Twitter](https://twitter.com/BViswanath22)
+- [LeetCode](https://leetcode.com/viswanathballa2004/)
+
 🚀 What I Do
 👁 Artificial Intelligence: Elevating Intelligence, Empowering Tomorrow.
 🌱 MERN Stack Development: Building modern web applications.
