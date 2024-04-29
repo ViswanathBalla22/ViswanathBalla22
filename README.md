@@ -1,28 +1,25 @@
-# Hello, world! 👋 I'm Viswanath
+Hey there! I'm Viswanath, a tech enthusiast based in Vijayawada. I'm passionate about machine learning and building web applications with the MERN stack.
 
- Machine learning | 🛠 MERN stack | ✍️ Tech Enthusiast
+:new: What's New
+Currently, I'm diving deep into machine learning and React.js projects while also contributing to open source.
 
-I'm based in Vijayawada. Building different projects and web applications within my skillset.
+🌐 Connect with me
+LinkedIn
+Twitter
+LeetCode
+🚀 What I Do
+👁 Artificial Intelligence: Elevating Intelligence, Empowering Tomorrow.
+🌱 MERN Stack Development: Building modern web applications.
+🧠 Machine Learning: Implementing algorithms for data analysis and prediction.
+🌱 Skills
+ReactJS
+MERN Stack Development
+Machine Learning
+Software Development
+Check out my projects here.
 
-## :new: What's New I am working on?
+📊 This week's stats
 
-I am recently working on machine learning and react js projects and contributing to open source 
-## 🌐 Connect with me:
-- [LinkedIn](https://in.linkedin.com/in/viswanath-balla-b7b236226)
--  [Twitter](https://twitter.com/BViswanath22)
-- 🐦 [LeetCode](https://leetcode.com/viswanathballa2004/)
-## 🚀 What I Do:
-- 👁 Artificial Intelligence: Elevating Intelligence, Empowering Tomorrow: AI Solutions for a Smarter World.
-- 🌱 MERN Stack Development: Building modern web applications using MongoDB, Express.js, React.js, and Node.js.
-- 🧠 Machine Learning: Implementing machine learning algorithms and models for data analysis and prediction.
-
-## 🌱 Skills:
-- ReactJS
-- MERN Stack Development
-- Machine Learning (ML)
-- Software Development
-
-  Check my Projects Here...(https://github.com/ViswanathBalla22?tab=repositories)
 
 ## 📊 This week's stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViswanathBalla22&count_private=true&show_icons=true&theme=radica)
